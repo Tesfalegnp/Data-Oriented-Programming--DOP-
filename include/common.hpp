@@ -23,3 +23,14 @@ public:
 struct Enemies {
     std::vector<float> x, y, vx, vy;
 };
+
+enum EntityState {
+    ACTIVE,
+    SLEEPING,
+    DEAD
+};
+
+struct EnemiesWithState {
+    std::vector<float> x, y, vx, vy;
+    std::vector<EntityState> state;
+};
