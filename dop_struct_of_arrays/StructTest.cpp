@@ -1,10 +1,6 @@
 // dop_struct_of_arrays/StructTest.cpp
 #include "../include/common.hpp"
 
-struct Enemies {
-    std::vector<float> x, y, vx, vy;
-};
-
 void run_struct_test(int num_entities) {
     Enemies enemies;
     enemies.x.resize(num_entities, 0.0f);
