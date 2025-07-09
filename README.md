@@ -1,4 +1,4 @@
- [DOP]("https://media.licdn.com/dms/image/v2/D4E12AQGBFxIwiOrwcw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709559226287?e=2147483647&v=beta&t=_jlJaYHb3suK2SVD9lB2CtvPVTc1Jr7WWR0ViF6StYw)
+ [DOP]("image/dop.png")
 
 #  Data-Oriented Programming (DOP) in C++
 
